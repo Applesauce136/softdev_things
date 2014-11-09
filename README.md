@@ -11,7 +11,7 @@ Our project uses a pared-down regex to search for either names or dates, dependi
 ####[An SQLite Blog](https://github.com/fawnwong/SQLiteBlogs)
 (feat. Me, Fawn, Christopher, Dionys (???))
 #####A very simple blog.
-The website comprises a single, hopefully linear set of posts, each containing a title, author, and body, as well as several comments related to the post.
+The website comprises a single, linear, hopefully time-sorted set of posts, each containing a title, author, and body, as well as several comments related to the post.
 ###Mini Projects
 * [The Python/Web Rehash + Flask](https://github.com/stuycs-softdev/submissions/tree/master/5/intro-proj1/zilbersher_chiu) (Me, Alex) (5/intro-proj1/zilbersher_chiu)
 * [The Name-Finder](https://github.com/stuycs-softdev/submissions/tree/master/5/regexp/christopher_harrison) (Me, Christopher) (5/regexp/christopher_harrison)
