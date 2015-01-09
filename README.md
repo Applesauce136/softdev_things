@@ -3,6 +3,11 @@ softdev_things
 
 ##Fall Semester
 Period 5
+###FINAL PROJECT
+####[Minesweeper](https://github.com/MineCache/Minesweeper)
+(feat. Me, Andrew, Tina)
+#####It's a minesweeper game, but in real life!
+Uses a GPS API to record the locations of mines, which the players find throughout a region like a park.
 ###Main Projects
 ####[Query Website](https://github.com/voidyknight/Questions)
 (feat. Me, Leon, Anish, Edison)
